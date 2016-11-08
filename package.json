@@ -1,0 +1,31 @@
+{
+  "name": "gulp-rn-css-js",
+  "version": "0.0.1",
+  "description": "gulp react native css to js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nt-team/gulp-rn-css-js.git"
+  },
+  "keywords": [
+    "gulp",
+    "reactNative",
+    "css",
+    "to",
+    "js"
+  ],
+  "author": "zhuguoxi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nt-team/gulp-rn-css-js/issues"
+  },
+  "homepage": "https://github.com/nt-team/gulp-rn-css-js#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "rn-css-js": "0.0.1",
+    "through2": "^2.0.1"
+  }
+}

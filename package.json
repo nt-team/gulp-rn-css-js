@@ -1,6 +1,6 @@
 {
   "name": "gulp-rn-css-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "gulp react native css to js",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,7 @@
   "homepage": "https://github.com/nt-team/gulp-rn-css-js#readme",
   "dependencies": {
     "gulp-util": "^3.0.7",
-    "rn-css-js": "0.0.2",
+    "rn-css-js": "0.0.3",
     "through2": "^2.0.1"
   }
 }
